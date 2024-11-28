@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="15dp">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#00BCD4"
+        android:titleTextColor="@android:color/white" />
+
+    <Button
+        android:id="@+id/btnAddRole"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:text="Thêm Nhà Sản Xuất"
+        android:textColor="@android:color/black"
+        android:backgroundTint="#2196F3"
+        android:layout_gravity="center_horizontal" />
+
+    <ListView
+        android:id="@+id/lvRole"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:dividerHeight="1dp" />
+</LinearLayout>

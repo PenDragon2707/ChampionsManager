@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChampionsManager</string>
+    <string name="username">Tên đăng nhập</string>
+    <string name="password">Mật khẩu</string>
+    <string name="login">Đăng nhập</string>
+    <string name="logout">Đăng xuất</string>
+    <string name="remember">Ghi nhớ thông tin đăng nhập</string>">
+    <string name="loginfalse">Thông tin đăng nhập không chính xác</string>">
+    <string name="namesv">Họ tên: Nguyễn Viết Long</string>">
+    <string name="classsv">Lớp: D21_TH08</string>">
+    <string name="idsv">MSSV: DH52111240</string>">
+    <string name="phone">Điện thoại: 0987654321</string>">
+    <string name="phone_number">tel:+84987654321</string>">
+    <string name="marker_title">Điểm đánh dấu ở STU</string>
+    <string name="marker_snippet">Đây là trường của tôi, Trường Đại học Công Nghệ Sài Gòn.</string>
+    <string name="champslist">Danh sách tướng</string>
+    <string name="roleslist">Danh sách vai trò tướng</string>
+    <string name="about">Giới thiệu</string>
+    <string name="menu_title">Quản lý tướng</string>
+    <string name="error_loading_roles">Lỗi khi tải danh sách vai trò tướng: %1$s</string>
+</resources>

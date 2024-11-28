@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ChampionsManager</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="remember">Remember your login information</string>">
+    <string name="loginfalse">Authentication information is incorrect</string>">
+    <string name="namesv">Name: Nguyễn Viết Long</string>">
+    <string name="classsv">Class: D21_TH08</string>">
+    <string name="idsv">ID: DH52111240</string>">
+    <string name="phone">Phone: 0987654321</string>">
+    <string name="phone_number">tel:+84987654321</string>
+    <string name="marker_title">Marker in STU</string>
+    <string name="marker_snippet">Saigon University of Technology.</string>
+    <string name="champslist">Champions List</string>
+    <string name="roleslist">Champion Roles</string>
+    <string name="about">About</string>
+    <string name="menu_title">Champions Manager</string>
+    <string name="error_loading_roles">Error loading champion roles: %1$s</string>
+</resources>
